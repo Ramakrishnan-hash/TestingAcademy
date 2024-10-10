@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b5edec9-41c0-43e4-92ac-30b58c97fdf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestingAcademy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab002.java" afterDir="false" />
+    <list default="true" id="5b5edec9-41c0-43e4-92ac-30b58c97fdf5" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ramakrishnan-hash/TestingAcademy.git",
-    "accountId": "ae508291-c012-452a-93cb-a53981e7a161"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ramakrishnan-hash&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ramakrishnan-hash/TestingAcademy.git&quot;,
+    &quot;accountId&quot;: &quot;ae508291-c012-452a-93cb-a53981e7a161&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -50,10 +49,14 @@
     "Application.Lab001.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Oct.ex_03102024.Lab001.executor": "Run",
+    "Application.Oct.ex_09102024.Lab001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Ramki/IdeaProjects/TestingAcademy/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Ramki/IdeaProjects/TestingAcademy/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager">
@@ -85,8 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Oct.ex_03102024.Lab001" />
         <item itemvalue="Application.Lab001" />
+        <item itemvalue="Application.Oct.ex_03102024.Lab001" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +102,15 @@
       <option name="presentableId" value="Default" />
       <updated>1727923686028</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1728015848882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728015848882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,5 +123,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
