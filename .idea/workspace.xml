@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b5edec9-41c0-43e4-92ac-30b58c97fdf5" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Terinaryoperator/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Terinaryoperator/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Terinaryoperator/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Terinaryoperator/Lab004_PostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Terinaryoperator/Lab005_PreIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Terinaryoperator/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Terinaryoperator/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024_ScannerClass/Task01_ScannerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024_ScannerClass/Task02_Arguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024_ScannerClass/Task03_Arguments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arguments01.executor": "Run",
+    "Application.Arguments02.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab001_Operators.executor": "Debug",
     "Application.Lab001_TypeCasting.executor": "Run",
@@ -63,8 +61,10 @@
     "Application.Oct.ex_09102024.Lab001.executor": "Run",
     "Application.Oct.ex_15102024_Terinaryoperator.Lab001.executor": "Run",
     "Application.Oct.ex_15102024_Terinaryoperator.Lab003.executor": "Run",
+    "Application.Task01_ScannerClass.executor": "Run",
     "Application.Task02.executor": "Run",
     "Application.Task03.executor": "Run",
+    "Application.Task03_Arguments.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -74,7 +74,23 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Arguments02">
+    <configuration name="Arguments01" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024_ScannerClass.Task02_Arguments" />
+      <module name="TestingAcademy" />
+      <option name="PROGRAM_PARAMETERS" value="56 90" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arguments02" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024_ScannerClass.Task03_Arguments" />
+      <module name="TestingAcademy" />
+      <option name="PROGRAM_PARAMETERS" value="154 189 188" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024.Lab001" />
       <module name="TestingAcademy" />
@@ -127,6 +143,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Arguments01" />
+      <item itemvalue="Application.Arguments02" />
+      <item itemvalue="Application.Lab001" />
+      <item itemvalue="Application.Lab003" />
+      <item itemvalue="Application.Oct.ex_03102024.Lab001" />
+      <item itemvalue="Application.Oct.ex_15102024_Terinaryoperator.Lab001" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Lab001" />
@@ -185,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729052010537</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1729065667411</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729065667411</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
