@@ -12,6 +12,6 @@ int max_score = 500, user_score = 461;
 
 double total_percentage = (double)user_score/max_score*100.00d;
 
-System.out.println(total_percentage);
+System.out.println("The total Percentage of the user is: "+ total_percentage);
     }
 }
