@@ -19,7 +19,7 @@ public class Task01_GradeCalculator {
         else if(mark>=60 && mark<70) {
             System.out.println("The Grade is: " + 'D');
         }
-        else if(mark>100) {
+        else if(mark>100 || mark < 0) {
             System.out.println("Invalid Mark Details");
         }
         else{

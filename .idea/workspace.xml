@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b5edec9-41c0-43e4-92ac-30b58c97fdf5" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_ConditionalStatements/Task01_GradeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_ConditionalStatements/Task02_TriangleClassifier.java" afterDir="false" />
+    <list default="true" id="5b5edec9-41c0-43e4-92ac-30b58c97fdf5" name="Changes" comment="10/17/2024">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_SwitchCase/Task1_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_SwitchCase/Task2_Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024_SwitchCase/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_17102024_ConditionalStatements/Task01_GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_ConditionalStatements/Task01_GradeCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,36 +47,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Arguments01.executor": "Run",
-    "Application.Arguments02.executor": "Run",
-    "Application.Lab001.executor": "Run",
-    "Application.Lab001_Operators.executor": "Debug",
-    "Application.Lab001_TypeCasting.executor": "Run",
-    "Application.Lab002.executor": "Run",
-    "Application.Lab003.executor": "Run",
-    "Application.Lab004_PostIncrement.executor": "Run",
-    "Application.Lab005_PreIncrement.executor": "Run",
-    "Application.Oct.ex_03102024.Lab001.executor": "Run",
-    "Application.Oct.ex_09102024.Lab001.executor": "Run",
-    "Application.Oct.ex_15102024_Terinaryoperator.Lab001.executor": "Run",
-    "Application.Oct.ex_15102024_Terinaryoperator.Lab003.executor": "Run",
-    "Application.Task01_GradeCalculator.executor": "Run",
-    "Application.Task01_ScannerClass.executor": "Run",
-    "Application.Task02.executor": "Run",
-    "Application.Task02_TriangleClassifier.executor": "Run",
-    "Application.Task03.executor": "Run",
-    "Application.Task03_Arguments.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Ramki/IdeaProjects/TestingAcademy/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arguments01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arguments02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001_Operators.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab001_TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab004_PostIncrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab005_PreIncrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oct.ex_03102024.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oct.ex_09102024.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oct.ex_15102024_Terinaryoperator.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oct.ex_15102024_Terinaryoperator.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task01_GradeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task01_ScannerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task02_TriangleClassifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task03_Arguments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2_Month.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ramki/IdeaProjects/TestingAcademy/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Arguments01" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024_ScannerClass.Task02_Arguments" />
@@ -241,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729074558887</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="10/17/2024">
+      <option name="closed" value="true" />
+      <created>1729130703263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729130703263</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,6 +270,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="10/17/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/17/2024" />
   </component>
 </project>
