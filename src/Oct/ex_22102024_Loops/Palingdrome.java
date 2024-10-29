@@ -18,7 +18,9 @@ public class Palingdrome {
         }
         String reverseValue = new String(charcter);
         System.out.println(reverseValue);
-        if(value.equals(reverseValue)){
+        if(value.equals(reverseValue)){  //value variable will create in SCP and reverseValue will create in heap area/object area
+            // == (Comparision operator) --> This will check the reference location.
+            // Whereas equals will check the value.
             System.out.println("The String is Pallingdrome");
         }
         else{

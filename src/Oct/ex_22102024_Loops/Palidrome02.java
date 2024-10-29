@@ -11,7 +11,7 @@ public class Palidrome02 {
         else{
             System.out.println("The String provided is not a Palidrome");
         }
-
+s.close();
     }
 
     static boolean PCheck(String value) {

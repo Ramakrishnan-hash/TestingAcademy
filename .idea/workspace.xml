@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b5edec9-41c0-43e4-92ac-30b58c97fdf5" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Loops/Palidrome02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Loops/Palingdrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Loops/Reverse_the_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Loops/vowels_and_consonants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_methods/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_StringFunctions/String_Functions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_22102024_Loops/Palidrome02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Loops/Palidrome02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_22102024_Loops/Palingdrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Loops/Palingdrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +65,7 @@
     "Application.Palidrome02.executor": "Debug",
     "Application.Palingdrome.executor": "Run",
     "Application.Reverse_the_Number.executor": "Run",
+    "Application.String_Functions.executor": "Run",
     "Application.Task01_GradeCalculator.executor": "Run",
     "Application.Task01_ScannerClass.executor": "Run",
     "Application.Task02.executor": "Run",
@@ -268,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729424120433</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1730010278261</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730010278261</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,5 +293,15 @@
     <MESSAGE value="10/17/2024" />
     <MESSAGE value="First Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
