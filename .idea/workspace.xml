@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b5edec9-41c0-43e4-92ac-30b58c97fdf5" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_duplicates_in_an_array/Duplicate_Array_using__normal_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_duplicates_in_an_array/Duplicate_Array_using_sort_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Star_Patterns/Array_Declaration_with_User_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Star_Patterns/Array_Declaration_with_User_Input_for_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Star_Patterns/Left_Triangle_Star_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Star_Patterns/Star_Pattern_Right_Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +51,8 @@
   "keyToString": {
     "Application.Arguments01.executor": "Run",
     "Application.Arguments02.executor": "Run",
+    "Application.Array_Declaration_with_User_Input.executor": "Run",
+    "Application.Array_Declaration_with_User_Input_for_2D.executor": "Run",
     "Application.Duplicate_Array_using__normal_method.executor": "Run",
     "Application.Duplicate_Array_using_sort_method.executor": "Run",
     "Application.Lab001.executor": "Run",
@@ -58,6 +62,7 @@
     "Application.Lab003.executor": "Run",
     "Application.Lab004_PostIncrement.executor": "Run",
     "Application.Lab005_PreIncrement.executor": "Run",
+    "Application.Left_Triangle_Star_Pattern.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Oct.ex_03102024.Lab001.executor": "Run",
     "Application.Oct.ex_09102024.Lab001.executor": "Run",
@@ -66,6 +71,8 @@
     "Application.Palidrome02.executor": "Debug",
     "Application.Palingdrome.executor": "Run",
     "Application.Reverse_the_Number.executor": "Run",
+    "Application.Star_Pattern.executor": "Run",
+    "Application.Star_Pattern_Right_Triangle.executor": "Run",
     "Application.String_Functions.executor": "Run",
     "Application.Task01_GradeCalculator.executor": "Run",
     "Application.Task01_ScannerClass.executor": "Run",
@@ -292,7 +299,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730169936835</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1730278493069</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730278493069</updated>
+    </task>
+    <task id="LOCAL-00014" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1730278622411</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730278622411</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
