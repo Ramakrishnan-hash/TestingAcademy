@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b5edec9-41c0-43e4-92ac-30b58c97fdf5" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Star_Patterns/Array_Declaration_with_User_Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Star_Patterns/Array_Declaration_with_User_Input_for_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Star_Patterns/Left_Triangle_Star_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Star_Patterns/Star_Pattern_Right_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPS/Dog1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPS/Dog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPS/Dog3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPS/Dog4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPS/Dog5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPS/Runner_Class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +73,7 @@
     "Application.Palidrome02.executor": "Debug",
     "Application.Palingdrome.executor": "Run",
     "Application.Reverse_the_Number.executor": "Run",
+    "Application.Runner_Class.executor": "Run",
     "Application.Star_Pattern.executor": "Run",
     "Application.Star_Pattern_Right_Triangle.executor": "Run",
     "Application.String_Functions.executor": "Run",
@@ -315,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730278622411</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1731031326468</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731031326468</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
