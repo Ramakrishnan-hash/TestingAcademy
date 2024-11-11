@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b5edec9-41c0-43e4-92ac-30b58c97fdf5" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024/Constructor_Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024/Default_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024/Parametrized_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Multiple_Inheritance/Child_Class1_Multilevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Multiple_Inheritance/Child_Class2_Multilevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Multiple_Inheritance/Parrent_Class_Multilevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Multiple_Inheritance/Runner_Class_Multilevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Single_Inheritance/Child_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Single_Inheritance/Parrent_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Single_Inheritance/Runner_Class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +78,7 @@
     "Application.Parametrized_Constructor.executor": "Run",
     "Application.Reverse_the_Number.executor": "Run",
     "Application.Runner_Class.executor": "Run",
+    "Application.Runner_Class_Multilevel.executor": "Run",
     "Application.Star_Pattern.executor": "Run",
     "Application.Star_Pattern_Right_Triangle.executor": "Run",
     "Application.String_Functions.executor": "Run",
@@ -96,6 +101,11 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Nov.ex_07112024_Inheritace_Part1.Multiple_Inheritance" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Arguments01" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024_ScannerClass.Task02_Arguments" />
@@ -334,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731131813712</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1731164813724</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1731164813724</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
