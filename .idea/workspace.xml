@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b5edec9-41c0-43e4-92ac-30b58c97fdf5" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Multiple_Inheritance/Child_Class1_Multilevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Multiple_Inheritance/Child_Class2_Multilevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Multiple_Inheritance/Parrent_Class_Multilevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Multiple_Inheritance/Runner_Class_Multilevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Single_Inheritance/Child_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Single_Inheritance/Parrent_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024_Inheritace_Part1/Single_Inheritance/Runner_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Real_life_Project_example/Base_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Real_life_Project_example/TestCase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/Real_life_Project_example/TestCase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/criminal/Thief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024/police/Cop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,57 +49,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Arguments01.executor": "Run",
-    "Application.Arguments02.executor": "Run",
-    "Application.Array_Declaration_with_User_Input.executor": "Run",
-    "Application.Array_Declaration_with_User_Input_for_2D.executor": "Run",
-    "Application.Constructor_Overloading.executor": "Run",
-    "Application.Default_Constructor.executor": "Run",
-    "Application.Duplicate_Array_using__normal_method.executor": "Run",
-    "Application.Duplicate_Array_using_sort_method.executor": "Run",
-    "Application.Lab001.executor": "Run",
-    "Application.Lab001_Operators.executor": "Debug",
-    "Application.Lab001_TypeCasting.executor": "Run",
-    "Application.Lab002.executor": "Run",
-    "Application.Lab003.executor": "Run",
-    "Application.Lab004_PostIncrement.executor": "Run",
-    "Application.Lab005_PreIncrement.executor": "Run",
-    "Application.Left_Triangle_Star_Pattern.executor": "Run",
-    "Application.Methods.executor": "Run",
-    "Application.Oct.ex_03102024.Lab001.executor": "Run",
-    "Application.Oct.ex_09102024.Lab001.executor": "Run",
-    "Application.Oct.ex_15102024_Terinaryoperator.Lab001.executor": "Run",
-    "Application.Oct.ex_15102024_Terinaryoperator.Lab003.executor": "Run",
-    "Application.Palidrome02.executor": "Debug",
-    "Application.Palingdrome.executor": "Run",
-    "Application.Parametrized_Constructor.executor": "Run",
-    "Application.Reverse_the_Number.executor": "Run",
-    "Application.Runner_Class.executor": "Run",
-    "Application.Runner_Class_Multilevel.executor": "Run",
-    "Application.Star_Pattern.executor": "Run",
-    "Application.Star_Pattern_Right_Triangle.executor": "Run",
-    "Application.String_Functions.executor": "Run",
-    "Application.Task01_GradeCalculator.executor": "Run",
-    "Application.Task01_ScannerClass.executor": "Run",
-    "Application.Task02.executor": "Run",
-    "Application.Task02_TriangleClassifier.executor": "Run",
-    "Application.Task03.executor": "Run",
-    "Application.Task03_Arguments.executor": "Run",
-    "Application.Task1_Calculator.executor": "Run",
-    "Application.Task2_Month.executor": "Run",
-    "Application.Task3.executor": "Run",
-    "Application.vowels_and_consonants.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Ramki/IdeaProjects/TestingAcademy/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arguments01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arguments02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Declaration_with_User_Input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Declaration_with_User_Input_for_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_Overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Default_Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Duplicate_Array_using__normal_method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Duplicate_Array_using_sort_method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001_Operators.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab001_TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab004_PostIncrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab005_PreIncrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Left_Triangle_Star_Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oct.ex_03102024.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oct.ex_09102024.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oct.ex_15102024_Terinaryoperator.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oct.ex_15102024_Terinaryoperator.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palidrome02.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Palingdrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parametrized_Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_the_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Runner_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Runner_Class_Multilevel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Star_Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Star_Pattern_Right_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task01_GradeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task01_ScannerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task02_TriangleClassifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task03_Arguments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2_Month.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vowels_and_consonants.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ramki/IdeaProjects/TestingAcademy/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Nov.ex_07112024_Inheritace_Part1.Multiple_Inheritance" />
@@ -191,11 +191,11 @@
     <list>
       <item itemvalue="Application.Arguments01" />
       <item itemvalue="Application.Arguments02" />
-      <item itemvalue="Application.Task01_GradeCalculator" />
       <item itemvalue="Application.Lab001" />
       <item itemvalue="Application.Lab003" />
       <item itemvalue="Application.Oct.ex_03102024.Lab001" />
       <item itemvalue="Application.Oct.ex_15102024_Terinaryoperator.Lab001" />
+      <item itemvalue="Application.Task01_GradeCalculator" />
     </list>
     <recent_temporary>
       <list>
@@ -352,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731164813724</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1731294605245</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1731294605245</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
